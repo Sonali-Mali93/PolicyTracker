@@ -18,13 +18,13 @@ Policy Tracker is a Node.js application that provides functionalities to manage 
 
 ```bash
 git clone https://github.com/Sonali-Mali93/PolicyTracker.git
-cd PolicyTracker
 
 ```
 2. Go to the project directory
 
 ```bash
-  cd my-project
+cd PolicyTracker
+
 ```
 3. Install dependencies::
 ```bash
