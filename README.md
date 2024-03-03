@@ -17,7 +17,7 @@ Policy Tracker is a Node.js application that provides functionalities to manage 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/PolicyTracker.git
+git clone https://github.com/Sonali-Mali93/PolicyTracker.git
 cd PolicyTracker
 
 ```
