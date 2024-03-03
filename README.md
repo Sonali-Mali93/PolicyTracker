@@ -38,7 +38,7 @@ MONGODB_URI=mongodb://username:password@localhost:27017/PolicyTrackerDB
 
 ## Running the Application
 ```bash
-nodemon start
+npm start
 ```
 
 The application will be accessible at http://localhost:3000
