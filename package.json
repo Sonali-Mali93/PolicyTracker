@@ -1,0 +1,20 @@
+{
+  "name": "policytracker",
+  "version": "1.0.0",
+  "description": "Policy Tracker is a Node.js application that provides functionalities to manage and track insurance policies.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Sonali Mali",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.0"
+  }
+}
